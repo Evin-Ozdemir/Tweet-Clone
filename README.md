@@ -1,12 +1,36 @@
-# React + Vite
+<div><h1>🐦 Tweet Clone</h1></div>
+<h4>Hello! It allows users to tweet, like, share images, and dynamically view a live tweet stream. I provided real-time database support with Firebase and added user authentication.</h4>
+<h4>Star ⭐ the repo if you like what you see 😉 </h4>
+ <div>
+ <h2>📸 Project Demo</h2>
+ <p>Watch the video to see how the project works! 👇</p>
+   
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+https://github.com/user-attachments/assets/2d27933a-008e-4f9f-9241-4ed7bce80bb3
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🛠️ Technologies and Libraries Used</h2>
+ <ul>
+   <li>⚛️ React: A powerful JavaScript library used to develop the user interface</li>
+   <li>🔥 Firebase: Google's cloud-based platform used to provide real-time database and user authentication.</li>
+   <li>📅 Moment: A JavaScript library used to properly format tweet times.</li>
+   <li>🔑 UUID: Library used to assign a unique ID to each tweet.</li>
+   <li>🗨️ React-Toastify: Used to create notifications on user interactions.</li>
+   <li>🔄 React-Router-Dom: Library that allows you to navigate between pages.</li>
+   <li>🗂️ Firebase Storage: Firebase's cloud storage used to add image upload feature to tweets.</li>
 
-## Expanding the ESLint configuration
+</li>
+     
+ </ul>  
+ 
+ <h2>🎨 Features</h2>
+ <ul>
+   <li>Real-time tweeting and viewing</li>
+   <li>User authentication</li>
+   <li>Responsive design compatible with all devices</li>
+   <li>Modern and clean UI</li>
+   <li>Likes on tweets</li>
+   <li>Instant notifications and fast updates</li>
+   <li>Upload image</li>
+ </ul> 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
