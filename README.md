@@ -18,9 +18,7 @@ https://github.com/user-attachments/assets/65c1b271-bba9-4588-89cc-854db8dd10eb
    <li>🗨️ React-Toastify: Used to create notifications on user interactions.</li>
    <li>🔄 React-Router-Dom: Library that allows you to navigate between pages.</li>
    <li>🗂️ Firebase Storage: Firebase's cloud storage used to add image upload feature to tweets.</li>
-
-</li>
-     
+   
  </ul>  
  
  <h2>🎨 Features</h2>
@@ -33,4 +31,17 @@ https://github.com/user-attachments/assets/65c1b271-bba9-4588-89cc-854db8dd10eb
    <li>Instant notifications and fast updates</li>
    <li>Upload image</li>
  </ul> 
-
+ 
+<h2>🔐 Environment Variables (.env)</h2>
+<p>For the project to work, you need to add the following environment variables to your `.env` file. Example structure:
+Create a `.env` file and type the following into it:
+</p>
+<ol>
+<li>VITE_FIREBASE_API_KEY=your_api_key_here</li>
+<li>VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain_here</li>
+<li>VITE_FIREBASE_PROJECT_ID=your_project_id_here</li>
+<li>VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket_here</li>
+<li>VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id_here</li>
+<li>VITE_FIREBASE_APP_ID=your_app_id_here</li>
+<li>VITE_FIREBASE_MEASUREMENT_ID=your_measurement_id_here</li>
+</ol>
