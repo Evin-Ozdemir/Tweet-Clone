@@ -6,7 +6,7 @@
  <p>Watch the video to see how the project works! 👇</p>
    
 
-https://github.com/user-attachments/assets/2d27933a-008e-4f9f-9241-4ed7bce80bb3
+https://github.com/user-attachments/assets/65c1b271-bba9-4588-89cc-854db8dd10eb
 
 
 <h2>🛠️ Technologies and Libraries Used</h2>
